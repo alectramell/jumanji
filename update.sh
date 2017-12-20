@@ -4,6 +4,7 @@ clear
 
 git add *.md
 git add *.sh
+git add *.py
 git add img
 git add fonts
 git commit -m "jumanji"
